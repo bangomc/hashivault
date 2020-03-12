@@ -1,0 +1,1 @@
+docker run --cap-add=IPC_LOCK -d --name hashivault -p 8200:8200 bangomc/hashivault
